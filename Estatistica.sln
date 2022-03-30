@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estatistica.Dominio", "Estatistica.Dominio\Estatistica.Dominio.csproj", "{B429C134-0841-421D-904D-4C1EFB993160}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estatistica.Dominio", "Estatistica.Dominio\Estatistica.Dominio.csproj", "{B429C134-0841-421D-904D-4C1EFB993160}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estatistica.TesteDeUnidade", "Estatistica.TesteDeUnidade\Estatistica.TesteDeUnidade.csproj", "{44071A39-7C2D-4FD8-9CED-FC4518B343EF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estatistica.Teste", "Estatistica.Teste\Estatistica.Teste.csproj", "{A8F8A6A1-BD6F-4113-939A-F078FF4DC890}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{B429C134-0841-421D-904D-4C1EFB993160}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B429C134-0841-421D-904D-4C1EFB993160}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B429C134-0841-421D-904D-4C1EFB993160}.Release|Any CPU.Build.0 = Release|Any CPU
-		{44071A39-7C2D-4FD8-9CED-FC4518B343EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{44071A39-7C2D-4FD8-9CED-FC4518B343EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{44071A39-7C2D-4FD8-9CED-FC4518B343EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{44071A39-7C2D-4FD8-9CED-FC4518B343EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8F8A6A1-BD6F-4113-939A-F078FF4DC890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F8A6A1-BD6F-4113-939A-F078FF4DC890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F8A6A1-BD6F-4113-939A-F078FF4DC890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F8A6A1-BD6F-4113-939A-F078FF4DC890}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
